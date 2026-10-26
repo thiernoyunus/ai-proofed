@@ -1,4 +1,8 @@
 <p align="center">
+  <img src=".github/assets/logo.png" width="112" alt="Editorial AI logo" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/header/grid.svg?title=Editorial+AI&subtitle=Humanize+AI-written+text&logo=googlegemini&mode=dark" />
     <img alt="Editorial AI" src="https://shieldcn.dev/header/grid.svg?title=Editorial+AI&subtitle=Humanize+AI-written+text&logo=googlegemini&mode=light" />
