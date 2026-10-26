@@ -1,10 +1,21 @@
-# Editorial AI
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/header/grid.svg?title=Editorial+AI&subtitle=Humanize+AI-written+text&logo=googlegemini&mode=dark" />
+    <img alt="Editorial AI" src="https://shieldcn.dev/header/grid.svg?title=Editorial+AI&subtitle=Humanize+AI-written+text&logo=googlegemini&mode=light" />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://react.dev"><img alt="React" src="https://shieldcn.dev/badge/React-19-61DAFB.svg?logo=react&variant=secondary" /></a>
+  <a href="https://ai.google.dev/"><img alt="Gemini API" src="https://shieldcn.dev/badge/Gemini-API-8E75B2.svg?logo=googlegemini&variant=secondary" /></a>
+  <a href="https://github.com/thiernoyunus/ai-proofed/commits"><img alt="Last commit" src="https://shieldcn.dev/github/last-commit/thiernoyunus/ai-proofed.svg?variant=secondary" /></a>
+  <a href="https://github.com/thiernoyunus/ai-proofed"><img alt="Stars" src="https://shieldcn.dev/github/stars/thiernoyunus/ai-proofed.svg?variant=secondary" /></a>
+</p>
 
 **Editorial AI** is a focused, distraction-free writing assistant designed to humanize AI-generated text. Unlike standard grammar checkers, it uses deep reasoning models to analyze tone, structure, and "AI tells" (words and patterns commonly used by LLMs) to help you write with more character and specificity.
 
 Built with **React**, **Tailwind CSS**, and the **Google Gemini API**.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## ✨ Features
 
@@ -40,8 +51,8 @@ Built with **React**, **Tailwind CSS**, and the **Google Gemini API**.
 
 1.  **Fork or Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/editorial-ai.git
-    cd editorial-ai
+    git clone https://github.com/thiernoyunus/ai-proofed.git
+    cd ai-proofed
     ```
 
 2.  **Install dependencies**:
